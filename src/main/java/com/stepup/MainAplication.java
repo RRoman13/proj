@@ -6,4 +6,8 @@ public class MainAplication {
         System.out.println("Новая строка");
         System.out.println("Новая строка 3");
     }
+
+    public static void doSomething () {
+        System.out.println("Новый метод");
+    }
 }
