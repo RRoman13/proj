@@ -5,6 +5,7 @@ public class MainAplication {
         System.out.println("Hello world!");
         System.out.println("Изменили строку для Task-001");
         System.out.println("Новая строка 3");
+        System.out.println("Новая строка в новой ветке");
     }
 
     public static void doSomething () {
